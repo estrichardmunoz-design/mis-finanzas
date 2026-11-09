@@ -1,4 +1,7 @@
-window.MF_CONFIG = {
-  clientId: 'PEGA_AQUI_EL_ID_DE_APLICACION',
-  tenantId: 'consumers' // Cuenta personal Microsoft (Hotmail/Outlook); reemplázalo por el tenant de tu app si el registro lo requiere
+// Configuración pública de Firebase Web. Las reglas de Firestore protegen los datos.
+window.MF_FIREBASE_CONFIG = {
+  apiKey: 'AIzaSyBjz9qjgZuXv7RGL6rX0tvjL63m1Xd2gnY',
+  authDomain: 'mis-finanzas-richard2.firebaseapp.com',
+  projectId: 'mis-finanzas-richard2',
+  appId: '1:702326908933:web:86f38f1a287e5e1e94d46c'
 };
